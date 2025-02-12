@@ -49,5 +49,5 @@ public class BaseTest {
 			e.printStackTrace();
 		}
 		System.out.println("Screenshot saved successfully");
-	}
+		System.out.println("sairam is waste fellow");	}
 }
